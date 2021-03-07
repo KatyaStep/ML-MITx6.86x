@@ -1,5 +1,6 @@
 *.gz
 *.pkl
 .env
+venv
 *.pyc
 .vscode
